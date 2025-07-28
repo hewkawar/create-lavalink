@@ -19,10 +19,9 @@
   "bin": {
     "create-lavalink": "./cli/create-lavalink.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
-    "@inquirer/prompts": "^7.7.1"
+    "@inquirer/prompts": "^7.7.1",
+    "js-yaml": "^4.1.0",
+    "log-update": "^6.1.0"
   }
 }
