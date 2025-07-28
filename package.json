@@ -1,6 +1,6 @@
 {
   "name": "create-lavalink",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "NPX to create Lavalink Server",
   "keywords": [
     "create-lavalink"
