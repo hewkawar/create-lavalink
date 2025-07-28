@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { confirm, input, select } from '@inquirer/prompts';
 import { execSync } from 'child_process';
 import logUpdate from 'log-update';
