@@ -17,7 +17,7 @@
   "author": "HewkawAr",
   "type": "module",
   "bin": {
-    "create-lavalink": "./cli/create-lavalink.js"
+    "create-lavalink": "cli/create-lavalink.js"
   },
   "dependencies": {
     "@inquirer/prompts": "^7.7.1",
